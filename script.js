@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
+/*for (let i = 0; i < 10; i++) {
     console.log(i);
-};
+};*/
 
 /*while (condition) {
     //run the code
@@ -8,7 +8,7 @@ for (let i = 0; i < 10; i++) {
     //aggiungi un'istruzione che modifichi la condizione al fine di interrompere il loop
 }*/
 
-let i = 0;
+/*let i = 0;
 while (i < 10) {
     console.log(i);
 
@@ -22,7 +22,7 @@ while (j < list.length) {
     const element = list[j];
 
     j++
-}
+}*/
 
 
 let play = true; 
@@ -47,4 +47,5 @@ console.log('Outside the loop');
 
 
 console.log('Live coding fatto dagli studenti');
+
 
