@@ -18,3 +18,22 @@ L'unica differenza è:
 
 
 Dopo la graffa di while non devo mettere il punto e virgola se intercambio il ciclo loop con il ciclo while il mio incremento/decremento diventa la condizione che mi fa terminare il ciclo while. 
+
+
+##Ciclo do-while
+
+Il ciclo do-while è il fratellino di while!
+Se la condizione è falsa la esegue comunque almeno una volta anche se la condizione risultasse falsa fin dall'inizio.
+
+
+let x = 110;
+do{
+    console.log(x);
+
+    x++
+} while (x < 10)
+
+//fuori dal do while 
+
+
+Se mentre sto guardando il mio codice voglio almeno eseguirla almeno di una volta anche se la condizione è comunque falsa 
