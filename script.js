@@ -46,5 +46,5 @@ while (play) {
 console.log('Outside the loop');
 
 
-console.log(***********************************);
+console.log('Live coding fatto dagli studenti');
 
